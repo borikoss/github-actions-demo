@@ -1,2 +1,3 @@
 Silly feature
 new something
+new 2
