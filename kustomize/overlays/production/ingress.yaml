@@ -18,4 +18,4 @@ spec:
            name: github-actions-demo
            port:
              number: 80
-    host: devops-toolkit.10.106.0.115.nip.io
+    host: devops-toolkit.alpha-pasta-614-cluster-1.k8s-alpha.dev.ttw
